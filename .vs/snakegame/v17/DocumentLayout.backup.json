@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u9879\u76EE\\snakegame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C69DA6-4CB1-4D86-AA96-24B75843EE4F}|snakegame.csproj|f:\\\u9879\u76EE\\snakegame\\llmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C69DA6-4CB1-4D86-AA96-24B75843EE4F}|snakegame.csproj|solutionrelative:llmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C69DA6-4CB1-4D86-AA96-24B75843EE4F}|snakegame.csproj|f:\\\u9879\u76EE\\snakegame\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C69DA6-4CB1-4D86-AA96-24B75843EE4F}|snakegame.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C69DA6-4CB1-4D86-AA96-24B75843EE4F}|snakegame.csproj|f:\\\u9879\u76EE\\snakegame\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C69DA6-4CB1-4D86-AA96-24B75843EE4F}|snakegame.csproj|solutionrelative:snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LLMService.cs",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\snakegame\\LLMService.cs",
+              "RelativeDocumentMoniker": "LLMService.cs",
+              "ToolTip": "F:\\\u9879\u76EE\\snakegame\\LLMService.cs",
+              "RelativeToolTip": "LLMService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:10:16.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cs",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\snakegame\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "F:\\\u9879\u76EE\\snakegame\\main.cs",
+              "RelativeToolTip": "main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:10:11.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snakegame.cs",
+              "DocumentMoniker": "F:\\\u9879\u76EE\\snakegame\\Snakegame.cs",
+              "RelativeDocumentMoniker": "Snakegame.cs",
+              "ToolTip": "F:\\\u9879\u76EE\\snakegame\\Snakegame.cs",
+              "RelativeToolTip": "Snakegame.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:10:05.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
